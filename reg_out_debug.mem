@@ -1,0 +1,7 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/main_tb/DUT/RF/regfile
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=8
+ @0 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+ @8 00000000 00000000 00000040 0000000f 00000000 0000004f ffffffcf fffff000
+@10 0000d024 00000000 fffff54c ffffffff 0001ffff ffffffff xxxxxxxx 000000xx
+@18 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
